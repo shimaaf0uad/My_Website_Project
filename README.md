@@ -25,7 +25,7 @@ This repository contains a professional web development project designed to serv
 ## Installation
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/my-project-main.git
+   git clone https://github.com/shimaaf0uad/My_Website_Project.git
    ```
 2. Navigate to the project directory:
    ```
