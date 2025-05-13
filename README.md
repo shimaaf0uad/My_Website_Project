@@ -51,7 +51,7 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 This project is distributed under the MIT License. For more details, refer to the [LICENSE.md](LICENSE.md) file.
 
 ## Contact Information
-For inquiries or collaboration opportunities, please contact me at [your-email@example.com](mailto:your-email@example.com).
+For inquiries or collaboration opportunities, please contact me at [shimaa.fouad002@gmail.com](mailto:shimaa.fouad002@gmail.com).
 
 ## Acknowledgments
 This project draws inspiration from leading photography portfolio websites and benefits from the support of the open-source community.
